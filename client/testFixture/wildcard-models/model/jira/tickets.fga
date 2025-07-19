@@ -1,3 +1,5 @@
+module jira-tickets
+
 type ticket
   relations
     define assignee: [user]

@@ -1,3 +1,5 @@
+module jira-projects
+
 type project
   relations
     define viewer: [user]

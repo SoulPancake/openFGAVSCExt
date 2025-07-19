@@ -1,3 +1,5 @@
+module confluence-pages
+
 type page
   relations
     define owner: [user]
