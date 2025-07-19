@@ -1,0 +1,4 @@
+type ticket
+  relations
+    define assignee: [user]
+    define viewer: [user] or assignee
